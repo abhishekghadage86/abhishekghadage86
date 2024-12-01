@@ -1,5 +1,5 @@
 <div align="center">
-    
+
 ![header](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 <div align="center">
